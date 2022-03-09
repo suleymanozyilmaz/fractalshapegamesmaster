@@ -2,13 +2,12 @@ import 'dart:math';
 
 import 'package:flutter/material.dart';
 
-import 'package:triangle_fractal/object_oriented/circle.dart';
 import 'package:triangle_fractal/object_oriented/line.dart';
-import 'package:triangle_fractal/object_oriented/rectangle.dart';
+
 import 'package:triangle_fractal/object_oriented/shape.dart';
 
 import 'package:triangle_fractal/object_oriented/shape_container.dart';
-import 'package:triangle_fractal/object_oriented/triangle.dart';
+
 
 
 void main() {
